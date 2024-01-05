@@ -1,6 +1,8 @@
 # My Portfolio
 
-![website](https://swatikawale.github.io/portfolio/)
+(https://swatikawale.github.io/portfolio/)
+
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/swatikawale/portfolio)
 ![GitHub stars](https://img.shields.io/github/stars/swatikawale/portfolio?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/swatikawale/portfolio?style=social)
