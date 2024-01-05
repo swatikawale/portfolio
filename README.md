@@ -1,6 +1,6 @@
 # My Portfolio
 
-(https://swatikawale.github.io/portfolio/)
+https://swatikawale.github.io/portfolio/
 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/swatikawale/portfolio)
@@ -33,10 +33,5 @@ sudo git clone https://github.com/swatikawale/portfolio.git
 Windows:
 
 ```bash
-git clone https://github.com/swatikawale/portfolio.git
-```
-
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/swatikawale).
+git clone https://github.com/swatikawale/portfolio.git 
  
